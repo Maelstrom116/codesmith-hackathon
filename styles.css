@@ -1,0 +1,99 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container {
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 55px;
+  height: 55px;
+  margin: 8px;
+
+  border: 0;
+  border-radius: 8px;
+  padding-right: 40px;
+}
+
+.cookie {
+  background-image: url('/img/cookie.png');
+  background-color: rgb(242, 219, 127);
+}
+
+.hot-dog {
+  background-image: url('/img/hotdog.png');
+  background-color: rgb(219, 78, 47);
+}
+
+.hamburger {
+  background-image: url('/img/hamburger.png');
+  background-color: rgb(39, 159, 41);
+}
+
+.banana {
+  background-image: url('/img/banana.png');
+  background-color: rgb(240, 237, 86);
+}
+
+.sus {
+  background-image: url('/img/sus.png');
+  background-color: rgb(156, 175, 252);
+}
+
+.snowman {
+  background-image: url('/img/snowman.png');
+  background-color: lightblue;
+}
+
+.ginger-bread {
+  background-image: url('/img/ginger-bread.png');
+  background-color: rgb(194, 135, 236);
+}
+
+.sword {
+  background-image: url('/img/diamond-sword.png');
+  background-color: rgb(125, 239, 228);
+}
+
+.arrow {
+  background-image: url('/img/blue-arrow.png');
+  background-color: pink;
+}
+
+.shovel {
+  background-image: url('/img/shovel.png');
+  background-color: brown;
+}
+
+.duck {
+  background-image: url('/img/duck.png');
+  background-color: rgb(255, 154, 137);
+}
+
+.nayn {
+  background-image: url('/img/nayn.png');
+  background-color: rgb(167, 166, 166);
+}
+
+.waffle {
+  background-image: url('/img/waffle.png');
+  background-color: antiquewhite;
+}
+
+.coffee {
+  background-image: url('/img/coffee.png');
+  background-color: rgb(206, 160, 100);
+}
+
+.mario {
+  background-image: url('/img/mario.png');
+  background-color: rgb(80, 80, 255);
+}
