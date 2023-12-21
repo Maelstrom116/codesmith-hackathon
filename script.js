@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // const newCursor = document.getElementById('newCursor');
   const cookie = document.getElementById('button1');
   cookie.addEventListener('click', () => {
     console.log('click');

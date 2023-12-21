@@ -1,13 +1,13 @@
 {
-    "manifest_version": 3,
-    "name": "Cursor Picker",
-    "description": "",
-    "version": "1.0",
-    "action": {
-        "default_popup": "chromeExtension.html"
-    },
-    
-    "icons": {
-        "48": "images/chromeExtColorWheel.png"
-    }
+  "manifest_version": 3,
+  "name": "Cursor Picker",
+  "description": "Pick your own cursor!",
+  "version": "3.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "icons": {
+    "48": "img/mario.png"
+  }
 }
